@@ -13,7 +13,7 @@ body {
     --bs-primary:#0B00A6;
     --bs-primary-rgb: 11, 0, 166;
     --bs-secondary:red;
-    --bs-secondary-rgb: 238, 143, 0;
+    --bs-secondary-rgb: 255, 0, 0;
 }
 
 .email{
