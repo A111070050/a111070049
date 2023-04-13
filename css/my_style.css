@@ -10,8 +10,8 @@ body {
     text-transform: none;
     }
 :root{
-    --bs-primary:#0B00A6;
-    --bs-primary-rgb: 11, 0, 166;
+    --bs-primary:#d4bd8a;
+    --bs-primary-rgb: 212,189,138;
     --bs-secondary:red;
     --bs-secondary-rgb: 255, 0, 0;
 }
